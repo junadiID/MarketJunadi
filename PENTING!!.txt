@@ -1,0 +1,10 @@
+SEDIKIT INFORMASI
+
+Silahkan Setting & sesuaikan
+
+database.sql terdapat di folder database
+setting database di config.php
+setting url lib/setting.php
+add layanan otomatis public_html/get/
+status otomatis & refund public_html/cronsjob/
+Silahkan sesuaikan database anda

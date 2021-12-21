@@ -1,0 +1,1 @@
+{"oid":"0711197556","service":"SALDO OVO 20K","price":"19720","status":"Success","date":"2019-11-07","catatan":"0752071119039810\/DAVVA WIDA ARDIANSAH"}
